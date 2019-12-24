@@ -1,0 +1,6 @@
+[submodule "modules/tensorflow"]
+	path = modules/tensorflow
+	url = https://github.com/godot-extended-libraries/godot-tensorflow.git
+[submodule "thirdparty/tensorflow"]
+	path = thirdparty/tensorflow
+	url = https://github.com/godot-extended-libraries/tensorflow.git
